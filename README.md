@@ -6,9 +6,13 @@ Chatroom page built using Flask, built off https://codeburst.io/building-your-fi
 
 (Optional) Create and start a virtual environment
 
-pip install flask
-pip install flask-socketio
+Install dependencies
 
-python3 main.py
+    pip install flask
+    pip install flask-socketio
+
+Start the server
+
+    python3 main.py
 
 Open up localhost:5000 in your browser (multiple tabs for multiple users)
